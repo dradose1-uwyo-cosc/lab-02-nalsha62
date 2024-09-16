@@ -23,7 +23,7 @@ print("Your code here")
 print("Your code here")
 
 # Complete the following f-string print message 
-    # You will need to create your own variables and insert them  
+    # You will need to create youown variables and insert them  
     # the final message should read `The University of Wyoming was founded in 1886`
 
 print(f"The {your_variable_here} was founded in {your_variable_here}")
